@@ -1,0 +1,99 @@
+.mainEqual{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.tipsAmount{
+    width: 23vw;
+    height: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: "Space Mono", monospace;
+    flex-wrap: wrap;
+    font-size: 1.2rem;
+}
+.equal{
+    font-size: 3rem;
+    font-weight: 600;
+    color: #26C2AE;
+    height: 70px;
+
+}
+
+.Amount{
+    line-height: 10px;
+
+}
+.Amount h3{
+    font-size: 1.4rem;
+    color: white;
+    white-space: nowrap;
+    width: 150px;
+}
+
+.Amount p{
+    color: #7F9D9F;
+    font-weight: 600;
+}
+.click{
+    height: 15vh;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.reset{
+    width: 100%;
+    height: 50px;
+    border-radius: 7px;
+    border: none;
+    outline: none;
+    background-color: #26C2AE;
+    font-family: "Space Mono", monospace;
+font-size: 2rem;
+color: #00474B;
+cursor: pointer;
+transition: 0.5s ease;
+}
+.reset:hover{
+    background-color: #16f4d6;
+
+}
+@media only screen and (max-width:400px) {
+   
+    .tipsAmount{
+        width: 90%;
+        height: 80px;
+        display: flex;
+
+    }
+    .equal{
+        font-size: 3rem;
+        font-weight: 600;
+        color: #26C2AE;
+    }
+    .Amount h3{
+        font-size: 2rem;
+        color: white;
+        white-space: nowrap;
+    }
+    .Amount p{
+        color: #7F9D9F;
+        font-weight: 600;
+    }
+    .click{
+        height: 17vh;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .reset{
+        width: 98%;
+        
+    }
+  }
+  
