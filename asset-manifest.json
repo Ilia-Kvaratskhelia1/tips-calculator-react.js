@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tips-calculator-react.js/static/css/main.debba4eb.css",
+    "main.js": "/tips-calculator-react.js/static/js/main.034363bf.js",
+    "static/js/787.a174f9e5.chunk.js": "/tips-calculator-react.js/static/js/787.a174f9e5.chunk.js",
+    "static/media/icon-dollar.svg": "/tips-calculator-react.js/static/media/icon-dollar.9f9be3534a9295a6595764d63a7bf3a3.svg",
+    "index.html": "/tips-calculator-react.js/index.html",
+    "static/media/icon-person.svg": "/tips-calculator-react.js/static/media/icon-person.65bfd20465dd1d2cb58c0b53e1160442.svg",
+    "main.debba4eb.css.map": "/tips-calculator-react.js/static/css/main.debba4eb.css.map",
+    "main.034363bf.js.map": "/tips-calculator-react.js/static/js/main.034363bf.js.map",
+    "787.a174f9e5.chunk.js.map": "/tips-calculator-react.js/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.debba4eb.css",
+    "static/js/main.034363bf.js"
+  ]
+}
